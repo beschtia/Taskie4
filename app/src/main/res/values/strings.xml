@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+    <string name="title_Home">Home</string>
+    <string name="title_about">About</string>
+    <string name="authorHeadingText">Application made by</string>
+    <string name="authorDescriptionText">OSC Android Academy Team:\n\nBruno Zorić, FERIT \nGoran Luketić, COBE \nDavor Lukić, student</string>
+    <string name="applicationHeadingText">About Taskie</string>
+    <string name="applicationDescriptionText">Simple application for managing daily tasks. \n\nKeep track of your tasks how you like! \n\nYou can give your task a name, description and priority.</string>
+</resources>
